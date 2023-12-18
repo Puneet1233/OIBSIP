@@ -11,6 +11,8 @@ This Calculator is used to perform basic calculations.
 3. Responsive - It can be used in multiple devices.
 
 4. Mode - User can use different modes like `Dark` and `Light`.
+
+5. History - User can see history of calculation in Landscape.
 ```
 
 ## created by - Puneet Ayam
